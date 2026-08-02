@@ -1,1 +1,3 @@
 Hello Odin! This is my new repository.
+
+I am writing more in order to practice!
