@@ -1,1 +1,1 @@
-There is nothing here!
+Hello Odin! This is my new repository.
