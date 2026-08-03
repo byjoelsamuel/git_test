@@ -3,3 +3,7 @@ Hello Odin! This is my new repository.
 I am writing more in order to practice!
 
 Adding more changes in order to try.
+
+<p>
+This is some text, it is enclosed in paragraphs!
+</p>
